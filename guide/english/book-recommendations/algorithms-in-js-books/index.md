@@ -25,3 +25,4 @@ title: Algorithms in JavaScript books
 - ISBN-13: 978-1788623872
  
 Please feel free to add more that you have found useful!
+my changes
